@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Projeto 2 - Postagem de blog</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <nav>
+        <h1>Minha Rede Social</h1>
+    </nav>
+
+    <main>
+        <section class="form-section">
+            <form id="form-post">
+                <input 
+                    type="text" 
+                    id="titulo-post" 
+                    placeholder="Digite o título da postagem"
+                    required
+                >
+
+                <textarea 
+                    id="conteudo-post" 
+                    placeholder="Escreva o conteúdo..."
+                    required
+                ></textarea>
+
+                <button type="submit">Publicar</button>
+            </form>
+            
+            <p id="mensagem-status"></p>
+        </section>
+
+        <section class="render-section">
+            <article>
+                <h2 id="renderizador-titulo"></h2>
+                <p id="renderizador-conteudo"></p>
+            </article>
+        </section>
+    </main>
+
+    <footer>
+        <p>Projeto de Certificação 2 - Postagem de blog</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
