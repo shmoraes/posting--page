@@ -3,7 +3,7 @@
 # Autor: Sandro Henrique Silveira de Moraes
 # Turma: DEVStart BA
 
-# 📝 Minha Rede Social - Projeto Certificação 2
+# 📝 Minha Rede Social - Projeto de Certificação 2
 
 Projeto feito como parte do desafio de certificação do curso, com foco em integração entre **HTML, CSS e JavaScript**, realizando comunicação com uma **API externa**.
 
@@ -11,7 +11,7 @@ Projeto feito como parte do desafio de certificação do curso, com foco em inte
 
 ## Sobre o Projeto
 
-Ssimula a criação de um post semelhante ao Facebook ou LinkedIn.
+Simula a criação de um post semelhante ao Facebook ou LinkedIn.
 
 O usuário pode:
 
@@ -34,7 +34,7 @@ O projeto realiza uma requisição **POST** para uma API pública utilizando `fe
 
 ---
 
-## 🌐 API Utilizada
+## API Utilizada
 
 - https://jsonplaceholder.typicode.com/posts
 
