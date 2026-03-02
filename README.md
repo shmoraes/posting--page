@@ -25,7 +25,7 @@ O projeto realiza uma requisição **POST** para uma API pública utilizando `fe
 
 ---
 
-## Tecnologias Utilizadas
+## Utilizadas
 
 - HTML5 (estrutura semântica)
 - CSS3 (estilização e responsividade)
