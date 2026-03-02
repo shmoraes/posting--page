@@ -25,7 +25,7 @@ O projeto realiza uma requisição **POST** para uma API pública utilizando `fe
 
 ---
 
-## Utilizadas
+## Tecnologia Utilizadas
 
 - HTML5 (estrutura semântica)
 - CSS3 (estilização e responsividade)
@@ -46,9 +46,7 @@ O projeto realiza uma requisição **POST** para uma API pública utilizando `fe
 - Clique em Publicar
 - Visualize o post renderizado
 
-## POST
-
-Configuração da requisição:
+## POST - Configuração da requisição:
 
 ```javascript
 const data = {
